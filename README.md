@@ -4,6 +4,7 @@ Este repositorio contiene algunas implementaciones del algoritmo de Deutsch-Jozs
 ## Contenidos
 
 1. **circuitos.ipynb** - En este cuaderno nos presentan los diferentes sistemas probabilísticos, cuántico y la luz como una onda.
+2. **grover.ipynb** - En este cuaderno nos presentan tres implementaciones de 3-SAT usando el algoritmo de grover para revisar las probabilidades.
 
 ## Requisitos
 
